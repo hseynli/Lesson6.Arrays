@@ -1,0 +1,15 @@
+E:\Projects\VsProjects\Lesson6.Arrays\07.Arrays\bin\Debug\net6.0\07.Arrays.exe
+E:\Projects\VsProjects\Lesson6.Arrays\07.Arrays\bin\Debug\net6.0\07.Arrays.deps.json
+E:\Projects\VsProjects\Lesson6.Arrays\07.Arrays\bin\Debug\net6.0\07.Arrays.runtimeconfig.json
+E:\Projects\VsProjects\Lesson6.Arrays\07.Arrays\bin\Debug\net6.0\07.Arrays.dll
+E:\Projects\VsProjects\Lesson6.Arrays\07.Arrays\bin\Debug\net6.0\07.Arrays.pdb
+E:\Projects\VsProjects\Lesson6.Arrays\07.Arrays\obj\Debug\net6.0\07.Arrays.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\Lesson6.Arrays\07.Arrays\obj\Debug\net6.0\07.Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\Lesson6.Arrays\07.Arrays\obj\Debug\net6.0\07.Arrays.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\Lesson6.Arrays\07.Arrays\obj\Debug\net6.0\07.Arrays.AssemblyInfo.cs
+E:\Projects\VsProjects\Lesson6.Arrays\07.Arrays\obj\Debug\net6.0\07.Arrays.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\Lesson6.Arrays\07.Arrays\obj\Debug\net6.0\07.Arrays.dll
+E:\Projects\VsProjects\Lesson6.Arrays\07.Arrays\obj\Debug\net6.0\refint\07.Arrays.dll
+E:\Projects\VsProjects\Lesson6.Arrays\07.Arrays\obj\Debug\net6.0\07.Arrays.pdb
+E:\Projects\VsProjects\Lesson6.Arrays\07.Arrays\obj\Debug\net6.0\07.Arrays.genruntimeconfig.cache
+E:\Projects\VsProjects\Lesson6.Arrays\07.Arrays\obj\Debug\net6.0\ref\07.Arrays.dll

@@ -1,0 +1,15 @@
+E:\Projects\VsProjects\Lesson6.Arrays\09.TheLastElementOfArray\bin\Debug\net6.0\09.TheLastElementOfArray.exe
+E:\Projects\VsProjects\Lesson6.Arrays\09.TheLastElementOfArray\bin\Debug\net6.0\09.TheLastElementOfArray.deps.json
+E:\Projects\VsProjects\Lesson6.Arrays\09.TheLastElementOfArray\bin\Debug\net6.0\09.TheLastElementOfArray.runtimeconfig.json
+E:\Projects\VsProjects\Lesson6.Arrays\09.TheLastElementOfArray\bin\Debug\net6.0\09.TheLastElementOfArray.dll
+E:\Projects\VsProjects\Lesson6.Arrays\09.TheLastElementOfArray\bin\Debug\net6.0\09.TheLastElementOfArray.pdb
+E:\Projects\VsProjects\Lesson6.Arrays\09.TheLastElementOfArray\obj\Debug\net6.0\09.TheLastElementOfArray.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\Lesson6.Arrays\09.TheLastElementOfArray\obj\Debug\net6.0\09.TheLastElementOfArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\Lesson6.Arrays\09.TheLastElementOfArray\obj\Debug\net6.0\09.TheLastElementOfArray.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\Lesson6.Arrays\09.TheLastElementOfArray\obj\Debug\net6.0\09.TheLastElementOfArray.AssemblyInfo.cs
+E:\Projects\VsProjects\Lesson6.Arrays\09.TheLastElementOfArray\obj\Debug\net6.0\09.TheLastElementOfArray.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\Lesson6.Arrays\09.TheLastElementOfArray\obj\Debug\net6.0\09.TheLastElementOfArray.dll
+E:\Projects\VsProjects\Lesson6.Arrays\09.TheLastElementOfArray\obj\Debug\net6.0\refint\09.TheLastElementOfArray.dll
+E:\Projects\VsProjects\Lesson6.Arrays\09.TheLastElementOfArray\obj\Debug\net6.0\09.TheLastElementOfArray.pdb
+E:\Projects\VsProjects\Lesson6.Arrays\09.TheLastElementOfArray\obj\Debug\net6.0\09.TheLastElementOfArray.genruntimeconfig.cache
+E:\Projects\VsProjects\Lesson6.Arrays\09.TheLastElementOfArray\obj\Debug\net6.0\ref\09.TheLastElementOfArray.dll

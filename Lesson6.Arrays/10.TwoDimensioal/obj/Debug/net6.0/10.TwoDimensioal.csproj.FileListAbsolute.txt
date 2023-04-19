@@ -1,0 +1,15 @@
+E:\Projects\VsProjects\Lesson6.Arrays\10.TwoDimensioal\bin\Debug\net6.0\10.TwoDimensioal.exe
+E:\Projects\VsProjects\Lesson6.Arrays\10.TwoDimensioal\bin\Debug\net6.0\10.TwoDimensioal.deps.json
+E:\Projects\VsProjects\Lesson6.Arrays\10.TwoDimensioal\bin\Debug\net6.0\10.TwoDimensioal.runtimeconfig.json
+E:\Projects\VsProjects\Lesson6.Arrays\10.TwoDimensioal\bin\Debug\net6.0\10.TwoDimensioal.dll
+E:\Projects\VsProjects\Lesson6.Arrays\10.TwoDimensioal\bin\Debug\net6.0\10.TwoDimensioal.pdb
+E:\Projects\VsProjects\Lesson6.Arrays\10.TwoDimensioal\obj\Debug\net6.0\10.TwoDimensioal.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\Lesson6.Arrays\10.TwoDimensioal\obj\Debug\net6.0\10.TwoDimensioal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\Lesson6.Arrays\10.TwoDimensioal\obj\Debug\net6.0\10.TwoDimensioal.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\Lesson6.Arrays\10.TwoDimensioal\obj\Debug\net6.0\10.TwoDimensioal.AssemblyInfo.cs
+E:\Projects\VsProjects\Lesson6.Arrays\10.TwoDimensioal\obj\Debug\net6.0\10.TwoDimensioal.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\Lesson6.Arrays\10.TwoDimensioal\obj\Debug\net6.0\10.TwoDimensioal.dll
+E:\Projects\VsProjects\Lesson6.Arrays\10.TwoDimensioal\obj\Debug\net6.0\refint\10.TwoDimensioal.dll
+E:\Projects\VsProjects\Lesson6.Arrays\10.TwoDimensioal\obj\Debug\net6.0\10.TwoDimensioal.pdb
+E:\Projects\VsProjects\Lesson6.Arrays\10.TwoDimensioal\obj\Debug\net6.0\10.TwoDimensioal.genruntimeconfig.cache
+E:\Projects\VsProjects\Lesson6.Arrays\10.TwoDimensioal\obj\Debug\net6.0\ref\10.TwoDimensioal.dll
