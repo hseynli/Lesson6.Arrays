@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\25.Reverse\bin\Debug\net6.0\25.Reverse.exe
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\25.Reverse\bin\Debug\net6.0\25.Reverse.deps.json
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\25.Reverse\bin\Debug\net6.0\25.Reverse.runtimeconfig.json
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\25.Reverse\bin\Debug\net6.0\25.Reverse.dll
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\25.Reverse\bin\Debug\net6.0\25.Reverse.pdb
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\25.Reverse\obj\Debug\net6.0\25.Reverse.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\25.Reverse\obj\Debug\net6.0\25.Reverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\25.Reverse\obj\Debug\net6.0\25.Reverse.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\25.Reverse\obj\Debug\net6.0\25.Reverse.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\25.Reverse\obj\Debug\net6.0\25.Reverse.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\25.Reverse\obj\Debug\net6.0\25.Reverse.dll
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\25.Reverse\obj\Debug\net6.0\refint\25.Reverse.dll
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\25.Reverse\obj\Debug\net6.0\25.Reverse.pdb
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\25.Reverse\obj\Debug\net6.0\25.Reverse.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\25.Reverse\obj\Debug\net6.0\ref\25.Reverse.dll

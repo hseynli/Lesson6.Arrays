@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\19.MethodWithArray\bin\Debug\net6.0\19.MethodWithArray.exe
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\19.MethodWithArray\bin\Debug\net6.0\19.MethodWithArray.deps.json
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\19.MethodWithArray\bin\Debug\net6.0\19.MethodWithArray.runtimeconfig.json
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\19.MethodWithArray\bin\Debug\net6.0\19.MethodWithArray.dll
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\19.MethodWithArray\bin\Debug\net6.0\19.MethodWithArray.pdb
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\19.MethodWithArray\obj\Debug\net6.0\19.MethodWithArray.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\19.MethodWithArray\obj\Debug\net6.0\19.MethodWithArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\19.MethodWithArray\obj\Debug\net6.0\19.MethodWithArray.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\19.MethodWithArray\obj\Debug\net6.0\19.MethodWithArray.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\19.MethodWithArray\obj\Debug\net6.0\19.MethodWithArray.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\19.MethodWithArray\obj\Debug\net6.0\19.MethodWithArray.dll
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\19.MethodWithArray\obj\Debug\net6.0\refint\19.MethodWithArray.dll
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\19.MethodWithArray\obj\Debug\net6.0\19.MethodWithArray.pdb
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\19.MethodWithArray\obj\Debug\net6.0\19.MethodWithArray.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\19.MethodWithArray\obj\Debug\net6.0\ref\19.MethodWithArray.dll

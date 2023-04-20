@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\22.CopyTo\bin\Debug\net6.0\22.CopyTo.exe
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\22.CopyTo\bin\Debug\net6.0\22.CopyTo.deps.json
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\22.CopyTo\bin\Debug\net6.0\22.CopyTo.runtimeconfig.json
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\22.CopyTo\bin\Debug\net6.0\22.CopyTo.dll
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\22.CopyTo\bin\Debug\net6.0\22.CopyTo.pdb
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\22.CopyTo\obj\Debug\net6.0\22.CopyTo.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\22.CopyTo\obj\Debug\net6.0\22.CopyTo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\22.CopyTo\obj\Debug\net6.0\22.CopyTo.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\22.CopyTo\obj\Debug\net6.0\22.CopyTo.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\22.CopyTo\obj\Debug\net6.0\22.CopyTo.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\22.CopyTo\obj\Debug\net6.0\22.CopyTo.dll
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\22.CopyTo\obj\Debug\net6.0\refint\22.CopyTo.dll
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\22.CopyTo\obj\Debug\net6.0\22.CopyTo.pdb
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\22.CopyTo\obj\Debug\net6.0\22.CopyTo.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\22.CopyTo\obj\Debug\net6.0\ref\22.CopyTo.dll

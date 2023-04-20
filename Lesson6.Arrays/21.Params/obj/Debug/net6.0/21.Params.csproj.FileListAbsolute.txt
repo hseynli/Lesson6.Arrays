@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\21.Params\bin\Debug\net6.0\21.Params.exe
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\21.Params\bin\Debug\net6.0\21.Params.deps.json
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\21.Params\bin\Debug\net6.0\21.Params.runtimeconfig.json
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\21.Params\bin\Debug\net6.0\21.Params.dll
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\21.Params\bin\Debug\net6.0\21.Params.pdb
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\21.Params\obj\Debug\net6.0\21.Params.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\21.Params\obj\Debug\net6.0\21.Params.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\21.Params\obj\Debug\net6.0\21.Params.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\21.Params\obj\Debug\net6.0\21.Params.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\21.Params\obj\Debug\net6.0\21.Params.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\21.Params\obj\Debug\net6.0\21.Params.dll
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\21.Params\obj\Debug\net6.0\refint\21.Params.dll
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\21.Params\obj\Debug\net6.0\21.Params.pdb
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\21.Params\obj\Debug\net6.0\21.Params.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\21.Params\obj\Debug\net6.0\ref\21.Params.dll

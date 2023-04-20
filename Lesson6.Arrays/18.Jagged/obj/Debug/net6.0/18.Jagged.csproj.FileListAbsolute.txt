@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\18.Jagged\bin\Debug\net6.0\18.Jagged.exe
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\18.Jagged\bin\Debug\net6.0\18.Jagged.deps.json
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\18.Jagged\bin\Debug\net6.0\18.Jagged.runtimeconfig.json
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\18.Jagged\bin\Debug\net6.0\18.Jagged.dll
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\18.Jagged\bin\Debug\net6.0\18.Jagged.pdb
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\18.Jagged\obj\Debug\net6.0\18.Jagged.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\18.Jagged\obj\Debug\net6.0\18.Jagged.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\18.Jagged\obj\Debug\net6.0\18.Jagged.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\18.Jagged\obj\Debug\net6.0\18.Jagged.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\18.Jagged\obj\Debug\net6.0\18.Jagged.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\18.Jagged\obj\Debug\net6.0\18.Jagged.dll
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\18.Jagged\obj\Debug\net6.0\refint\18.Jagged.dll
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\18.Jagged\obj\Debug\net6.0\18.Jagged.pdb
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\18.Jagged\obj\Debug\net6.0\18.Jagged.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\18.Jagged\obj\Debug\net6.0\ref\18.Jagged.dll

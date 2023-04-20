@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\16.ThreeDimensional\bin\Debug\net6.0\16.ThreeDimensional.exe
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\16.ThreeDimensional\bin\Debug\net6.0\16.ThreeDimensional.deps.json
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\16.ThreeDimensional\bin\Debug\net6.0\16.ThreeDimensional.runtimeconfig.json
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\16.ThreeDimensional\bin\Debug\net6.0\16.ThreeDimensional.dll
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\16.ThreeDimensional\bin\Debug\net6.0\16.ThreeDimensional.pdb
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\16.ThreeDimensional\obj\Debug\net6.0\16.ThreeDimensional.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\16.ThreeDimensional\obj\Debug\net6.0\16.ThreeDimensional.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\16.ThreeDimensional\obj\Debug\net6.0\16.ThreeDimensional.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\16.ThreeDimensional\obj\Debug\net6.0\16.ThreeDimensional.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\16.ThreeDimensional\obj\Debug\net6.0\16.ThreeDimensional.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\16.ThreeDimensional\obj\Debug\net6.0\16.ThreeDimensional.dll
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\16.ThreeDimensional\obj\Debug\net6.0\refint\16.ThreeDimensional.dll
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\16.ThreeDimensional\obj\Debug\net6.0\16.ThreeDimensional.pdb
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\16.ThreeDimensional\obj\Debug\net6.0\16.ThreeDimensional.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\16.ThreeDimensional\obj\Debug\net6.0\ref\16.ThreeDimensional.dll

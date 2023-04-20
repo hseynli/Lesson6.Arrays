@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\24.Sort\bin\Debug\net6.0\24.Sort.exe
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\24.Sort\bin\Debug\net6.0\24.Sort.deps.json
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\24.Sort\bin\Debug\net6.0\24.Sort.runtimeconfig.json
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\24.Sort\bin\Debug\net6.0\24.Sort.dll
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\24.Sort\bin\Debug\net6.0\24.Sort.pdb
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\24.Sort\obj\Debug\net6.0\24.Sort.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\24.Sort\obj\Debug\net6.0\24.Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\24.Sort\obj\Debug\net6.0\24.Sort.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\24.Sort\obj\Debug\net6.0\24.Sort.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\24.Sort\obj\Debug\net6.0\24.Sort.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\24.Sort\obj\Debug\net6.0\24.Sort.dll
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\24.Sort\obj\Debug\net6.0\refint\24.Sort.dll
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\24.Sort\obj\Debug\net6.0\24.Sort.pdb
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\24.Sort\obj\Debug\net6.0\24.Sort.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson6.Arrays\Lesson6.Arrays\24.Sort\obj\Debug\net6.0\ref\24.Sort.dll
